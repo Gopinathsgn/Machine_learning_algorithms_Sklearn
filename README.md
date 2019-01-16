@@ -1,7 +1,7 @@
 # Machine_learning_algorithms_Sklearn
 --------------------------------------
 
-1. Decision Tree
+1.Decision Tree
 ----------------
 Definition: Given a data of attributes together with its classes, a decision tree produces a sequence of rules that can be used to classify the data.
 
@@ -25,7 +25,7 @@ Advantages: This algorithm requires a small amount of training data to estimate 
 
 Disadvantages: Naive Bayes is is known to be a bad estimator.
 
-4. Random Forest
+4.Random Forest
 -----------------
 Definition: Random forest classifier is a meta-estimator that fits a number of decision trees on various sub-samples of datasets and uses average to improve the predictive accuracy of the model and controls over-fitting. The sub-sample size is always the same as the original input sample size but the samples are drawn with replacement.
 
@@ -33,7 +33,7 @@ Advantages: Reduction in over-fitting and random forest classifier is more accur
 
 Disadvantages: Slow real time prediction, difficult to implement, and complex algorithm.
 
-5. K-Nearest Neighbours
+5.K-Nearest Neighbours
 ------------------------
 Definition: Neighbours based classification is a type of lazy learning as it does not attempt to construct a general internal model, but simply stores instances of the training data. Classification is computed from a simple majority vote of the k nearest neighbours of each point.
 
